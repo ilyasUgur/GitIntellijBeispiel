@@ -6,6 +6,8 @@ public class Student {
 
         StudentNoten();
 
+        System.out.println("Alles werden sehr shön");
+
     }
 
     public static void StudentNoten() {
